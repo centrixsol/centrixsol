@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @centrixsol
-- 👀 I’m interested in deep learning and computer vision projects
-- 🌱 I’m currently building an MlOps tool
-- 💞️ I’m looking to collaborate on MlOps and deep learning prjects
+- 👋 Hi, I’m Babar Ali Founder of Agentic AI for Sales Automation @bseiso.ai
+- 👀 I’m interested in ML/DL/Agentic AI projects
+- 🌱 I’m currently building a few full stack tools
+- 💞️ I’m looking to collaborate on MlOps and AI prjects
 - 📫 reach me on babar-alii@outlook.com 
 
 <!---
