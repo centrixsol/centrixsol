@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Babar Ali Founder of Agentic AI for Sales Automation @bseiso.ai
+- 👋 Hi, I’m Babar Ali Founder and Head of AI of @bseiso.ai an Agentic AI platofrm for high-end Sales Automation
 - 👀 I’m interested in ML/DL/Agentic AI projects
 - 🌱 I’m currently building a few full stack tools for managing Agentic AI Apps
 - 💞️ I’m looking to collaborate on MlOps and AI prjects
