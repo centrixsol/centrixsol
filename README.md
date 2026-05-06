@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/DL/Agentic AI projects
 - 🌱 I’m currently building a few full stack tools for managing Agentic AI Apps
 - 💞️ I’m looking to collaborate on MlOps and AI prjects
-- 📫 reach me on babar-alii@outlook.com 
+- 📫 reach me on babar-alii@outlook.com babar.ali@bseiso.ai
 
 <!---
 centrixsol/centrixsol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
